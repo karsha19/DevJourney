@@ -12,6 +12,6 @@ void main()
     printf("Enter time : ");
     scanf("%f",&t);
     si=(p*r*t)/100;
-    printf("Interest is=%f",si);
+    printf("Interest is = %f",si);
     getch();
 }
