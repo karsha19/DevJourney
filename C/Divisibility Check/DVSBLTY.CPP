@@ -10,6 +10,7 @@ void main()
 	printf("Enter the number to divide by : ");
 	scanf("%d",&b);
 	r=a%b;
+//or you can do as--> if((a%b)==0)
 	if(r==0)
 		printf("Divisible");
 	else
